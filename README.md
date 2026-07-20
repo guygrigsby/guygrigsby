@@ -1,10 +1,8 @@
-[![GitHub Roast score badge](https://ghfind.com/api/badge/guygrigsby)](https://ghfind.com/u/guygrigsby?ref=badge)
-
 # Guy Grigsby
 
-Software engineer in Denver. [@HashiCorp](https://github.com/hashicorp). Mostly Go, some Rust, and more GPUs than I should. 
+Software engineer in Denver @ [@HashiCorp](https://github.com/hashicorp). Mostly Go and all security products. Work on Vault. Lead the launch of HCP Boundary.
 
-Currently building tools for agentic software: a language, an agent daemon, a training kit, and the guardrails that keep them honest. 
+Currently building secure runtimes and tools for agentic software: a language, an agent daemon, a training kit, and the guardrails that keep them honest. 
 
 Having a lot of fun doing some ML researching amateur style. Pre-training, fine tuning and LLM-as-judge experiments are my favorite right now.
 
