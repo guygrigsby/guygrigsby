@@ -27,6 +27,6 @@ type Guy struct {
 
 ### Elsewhere
 
-[grigsby.dev](https://grigsby.dev) · [aeryx.ai](https://aeryx.ai) · [guy@grigsby.dev](mailto:guy@grigsby.dev)
+[grigsby.dev](https://grigsby.dev) · [aeryx.ai](https://aeryx.ai) 
 
 <sub>On GitHub since 2013. Still haven't run out of ideas for daemons.</sub>
