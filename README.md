@@ -1,4 +1,4 @@
-[![GitHub Roast](https://ghfind.com/api/card/guygrigsby?theme=light)](https://ghfind.com/u/guygrigsby?ref=badge)
+[![GitHub Roast score badge](https://ghfind.com/api/badge/guygrigsby)](https://ghfind.com/u/guygrigsby?ref=badge)
 
 # Guy Grigsby
 
