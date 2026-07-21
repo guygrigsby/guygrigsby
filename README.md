@@ -1,6 +1,6 @@
 # Guy Grigsby
 
-Software engineer in Denver @ [@HashiCorp](https://github.com/hashicorp). Mostly Go and all security products. Work on Vault. Lead the launch of HCP Boundary.
+Software engineer in Denver [@HashiCorp](https://github.com/hashicorp). Mostly Go and all security products. Work on Vault. Lead the launch of HCP Boundary.
 
 Currently building secure runtimes and tools for agentic software: a language, an agent daemon, a training kit, and the guardrails that keep them honest. 
 
