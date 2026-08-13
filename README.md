@@ -9,7 +9,7 @@ Having a lot of fun doing some ML researching amateur style. Pre-training, fine 
 ```go
 type Guy struct {
     Location string   // Denver, CO
-    Writes   []string // Go, Rust, TypeScript, Python
+    Writes   []string // Go, TypeScript, Python
     Runs     string   // The power bill up
 }
 ```
