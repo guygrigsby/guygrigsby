@@ -1,10 +1,22 @@
 # Guy Grigsby
 
-Software engineer in Denver [@HashiCorp](https://github.com/hashicorp). Mostly Go and all security products. Work on Vault. Lead the launch of HCP Boundary.
+Software engineer in Denver, currently at [@HashiCorp](https://github.com/hashicorp). Mostly Go. These days I build secure runtimes and tools for agentic software — agents, harnesses, and the guardrails that keep them honest — and do amateur ML research on the side (pre-training, fine-tuning, LLM-as-judge).
 
-Currently building secure runtimes and tools for agentic software: a language, an agent daemon, a training kit, and the guardrails that keep them honest. 
+### What I'm building
 
-Having a lot of fun doing some ML researching amateur style. Pre-training, fine tuning and LLM-as-judge experiments are my favorite right now.
+| | |
+|---|---|
+| [**autophage**](https://github.com/guygrigsby/autophage) | An agent daemon that fixes GitHub issues in a sandbox. |
+| [**jess**](https://github.com/guygrigsby/jess) | Agent harness: the loop, tools, and plumbing that run an agent. |
+| [**llm**](https://github.com/guygrigsby/llm) | Model provider adapters — one interface over the various LLM APIs. |
+| [**gyr**](https://github.com/guygrigsby/gyr) | Agent daemon for local oversight. The gyrfalcon is the largest falcon. |
+| [**perch**](https://github.com/guygrigsby/perch) | Where agents land: a place to watch runs and their output. |
+| [**rookery**](https://github.com/guygrigsby/rookery) | A nesting ground for agents — spawning and tending many at once. |
+
+### Work
+
+- **Now:** Engineer at HashiCorp, working on Vault and security products.
+- **Before:** Led the launch of HCP Boundary.
 
 ```go
 type Guy struct {
@@ -14,17 +26,6 @@ type Guy struct {
 }
 ```
 
-### What I'm building
-
-| | |
-|---|---|
-| [**lmkit**](https://github.com/guygrigsby/lmkit) | Train language models from scratch on one machine: pretrain, anneal, SFT, tokenizer, eval. |
-| [**ago**](https://github.com/guygrigsby/agent-go) | A semantic edit protocol for Go. Agents submit compiler-checked mutations, so an edit that doesn't typecheck can't reach disk. |
-| [**mlx-stack**](https://github.com/guygrigsby/mlx-stack) | A minimal LLM proxy and router for running multiple mlx instances. Supports text, vision, embedding and audio. |
-| [**nevla**](https://github.com/guygrigsby/nevla) | What happens when you vibe-code a language out of pure hatred for Python. Typed, error-handled, ML constructs first-class. |
-| [**gyr**](https://github.com/guygrigsby/gyr) | Agent daemon for local oversight. The gyrfalcon is the largest falcon. |
-| [**gputex**](https://github.com/guygrigsby/gputex) | A mutex for your GPU. Stops two jobs from fighting over one card. |
-
 ### Elsewhere
 
-[grigsby.dev](https://grigsby.dev) · [aeryx.ai](https://aeryx.ai) 
+[grigsby.dev](https://grigsby.dev) · [aeryx.ai](https://aeryx.ai)
