@@ -14,17 +14,6 @@ type Guy struct {
 }
 ```
 
-### What I'm building
-
-| | |
-|---|---|
-| [**lmkit**](https://github.com/guygrigsby/lmkit) | Train language models from scratch on one machine: pretrain, anneal, SFT, tokenizer, eval. |
-| [**ago**](https://github.com/guygrigsby/agent-go) | A semantic edit protocol for Go. Agents submit compiler-checked mutations, so an edit that doesn't typecheck can't reach disk. |
-| [**mlx-stack**](https://github.com/guygrigsby/mlx-stack) | A minimal LLM proxy and router for running multiple mlx instances. Supports text, vision, embedding and audio. |
-| [**nevla**](https://github.com/guygrigsby/nevla) | What happens when you vibe-code a language out of pure hatred for Python. Typed, error-handled, ML constructs first-class. |
-| [**gyr**](https://github.com/guygrigsby/gyr) | Agent daemon for local oversight. The gyrfalcon is the largest falcon. |
-| [**gputex**](https://github.com/guygrigsby/gputex) | A mutex for your GPU. Stops two jobs from fighting over one card. |
-
 ### Elsewhere
 
 [grigsby.dev](https://grigsby.dev) · [aeryx.ai](https://aeryx.ai) 
